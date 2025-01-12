@@ -1,0 +1,21 @@
+.parents{
+    padding: 25px;
+    background-color: blanchedalmond;
+    display: flex;  
+    gap: 30px;    
+    justify-content:space-between;
+    height: 300px;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.child{
+    border: 2px solid cornflowerblue;
+    background: coral;
+    padding: 8px;
+    font-size: 24px;
+    /* margin: 10px 0; */
+     /* display: inline;  */
+    
+    
+}
